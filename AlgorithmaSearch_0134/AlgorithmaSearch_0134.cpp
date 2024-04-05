@@ -25,5 +25,4 @@ void input()
 
 	}
 }
-
-
+void linearsearch()
